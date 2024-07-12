@@ -31,6 +31,8 @@
   </a>
 </div>
 
+ <hr/>
+
 <h3 align="center">⚒️ Languages-Framework-Tools ⚒️</h3>
 <br>
 <div align="center">
