@@ -28,7 +28,7 @@
 <a href="/https://amrit-44404.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amrit-44404.github.io/index.xml" height="30" width="40" /></a>
 </div>
 
-<h3 align="center">⚒️ Languages-Framework-Tools</h3>
+<h3 align="center">⚒️ Languages-Framework-Tools ⚒️</h3>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,react,bootstrap,html,css,vscode,github,tailwind,git,r" />
