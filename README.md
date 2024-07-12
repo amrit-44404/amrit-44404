@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **C++,Typescript and Java**
 
- 📚 Write's Blogs at **[Dev.to](https://dev.to/random_ti)** and **[Hashnode](https://mdtaquiimam.hashnode.dev/)**
+ 📚 Write's Posts at **[amrit-44404](https://amrit-44404.github.io/posts/)**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/taqui-786/taqui-786/issues)**
 
