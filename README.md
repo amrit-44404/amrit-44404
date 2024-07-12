@@ -32,7 +32,7 @@
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c,lua,java,nextjs,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c,java,lua,nextjs,linux" /><br>
 </div>
 
 <br/>
