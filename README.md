@@ -30,11 +30,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<div align="center"> 
-<a href="https://twitter.com/amrit_01010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrit_01010" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/26338466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/26338466" height="30" width="40" /></a>
-<a href="/https://amrit-44404.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://amrit-44404.github.io/index.xml" height="30" width="40" /></a>
-</div>
 
 <h3 align="center">⚒️ Languages-Framework-Tools ⚒️</h3>
 <br>
