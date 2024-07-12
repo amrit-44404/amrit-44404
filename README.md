@@ -16,8 +16,6 @@
 
  📚 Write's Posts at **[amrit-44404](https://amrit-44404.github.io/posts/)**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/taqui-786/taqui-786/issues)**
-
  ⚡ Fun fact **World first developer was a women**
 
  </div>
