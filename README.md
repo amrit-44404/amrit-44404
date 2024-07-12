@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Taqui+Imam!;" />
 </h1>
 
-<h3 align="center">A passionate software developer and tech Blog writer from India</h3>
+<h3 align="center">Just a coder for fun.</h3>
 
 <br/>
 
 <div align="center">
 
- 🔭 I’m currently working on **a Nexjs Projects**
+ 🔭 I’m currently working on **a ..C**
 
  🌱 I’m currently learning **C++,Typescript and Java**
 
