@@ -45,16 +45,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-<div align=center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit-44404&show_icons=true&theme=dark&locale=en&layout=compact" alt="amrit-44404" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit-44404&show_icons=true&theme=dark&locale=en" alt="amrit-44404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit-44404&theme=dark" alt="amrit-44404" /></p>
-</div>
 
 <hr/>
 <br>
