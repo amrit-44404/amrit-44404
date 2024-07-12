@@ -8,15 +8,15 @@
 
 <div align="center">
     
-- 🔭 I’m currently working on **C**
+🔭 I’m currently working on **C**
 
-- 🌱 I’m currently learning **Lua, React etc.**
+🌱 I’m currently learning **Lua, React etc.**
 
-- 💬 Ask me about **bash, JS, Rust etc.**
+💬 Ask me about **bash, JS, Rust etc.**
 
-- 📫 How to reach me **[gmail](bhattaraiamrit01010@gmail.com)**
+📫 How to reach me **[gmail](bhattaraiamrit01010@gmail.com)**
 
-- ⚡ Fun fact **World first developer was a women!**
+⚡ Fun fact **World first developer was a women!**
 
  </div>
 <div align="center"> 
