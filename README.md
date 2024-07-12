@@ -14,14 +14,22 @@
 
 - 💬 Ask me about **bash, JS, Rust etc.**
 
-- 📫 How to reach me **bhattaraiamrit01010@gmail.com**
+- 📫 How to reach me **[gmail](bhattaraiamrit01010@gmail.com)**
 
 - ⚡ Fun fact **World first developer was a women!**
 
  </div>
-
-<h3 align="left">Connect with me:</h3>
-
+<div align="center"> 
+  <a href="bhattaraiamrit01010@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+      <a href="https://twitter.com/amrit_01010" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://amrit-44404.github.io/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 <div align="center"> 
 <a href="https://twitter.com/amrit_01010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amrit_01010" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/26338466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/26338466" height="30" width="40" /></a>
