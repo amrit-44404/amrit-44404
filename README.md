@@ -46,7 +46,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-<img  src="https://raw.githubusercontent.com/amrit-44404/amrit-44404/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/amrit-44404/amrit-44404/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 </div>
 <br>
 <div align=center>
